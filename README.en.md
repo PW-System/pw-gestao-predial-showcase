@@ -18,29 +18,30 @@ Open the live presentation environment:
 
 ## System Screenshots
 
-### Master Panel — Global Governance & Audit Ledger
-| Global Governance & Hierarchy | Supervisors, Accounts & Immutable Ledger |
+### Master Panel & Operational View (Desktop)
+| Master Governance (Sand Theme) | Operational View (Obsidian Dark Mode) |
 | :---: | :---: |
-| ![Master Panel](docs/screenshots/01-painel-master.jpg) | ![Supervisors & Audit](docs/screenshots/02-supervisores-auditoria.jpg) |
+| ![Master Panel](docs/screenshots/01-painel-master.jpg) | ![Operational View Obsidian](docs/screenshots/02-visao-operacional-obsidiana.jpg) |
 
-### Operational View — Light & Dark Themes
-| Sand Theme | Obsidian Theme (Dark Mode) |
-| :---: | :---: |
-| ![Operational View Sand](docs/screenshots/03-visao-operacional-areia.jpg) | ![Operational View Obsidian](docs/screenshots/04-visao-operacional-obsidiana.jpg) |
+### Central Inventory & Responsive Mobile Experience
+| Central Inventory & Filters | Master Panel (Mobile) | Side Drawer & Skins (Mobile) |
+| :---: | :---: | :---: |
+| ![Central Inventory](docs/screenshots/03-estoque-central.jpg) | ![Mobile Master Panel](docs/screenshots/04-mobile-render-master.jpg) | ![Mobile Drawer](docs/screenshots/05-mobile-render-drawer.jpg) |
 
 ### Monthly Consumption Report (PDF Export)
-![Monthly Consumption PDF Report](docs/screenshots/05-relatorio-mensal-pdf.jpg)
+![Monthly Consumption PDF Report](docs/screenshots/06-relatorio-mensal-pdf.jpg)
 
 ---
 
 ## Key Capabilities
 
-- **Role-Based Access Control:** strict separation across Master Governance, Operational Supervisors, and Field Technicians.
+- **Role-Based Access Control (Galvanic Isolation):** strict separation across Master Governance, Operational Supervisors, and Field Technicians.
 - **Inventory & Tool Custody:** central warehouse tracking, quota-enforced transfers, per-technician custody tracking, and item-level breakdown.
+- **Instant Search & Facility Drill-Down:** quick filtering across facilities, technicians, and stock categories with live work-order status tracking.
 - **End-to-End Work Orders:** creation, assignment by facility/technician, execution, automatic material deduction, and real-time notifications.
 - **Immutable Audit Trail:** chronological record of operational and financial movements.
 - **Executive PDF Reports:** monthly rollups by technician, facility, and facility × technician matrix.
-- **Customizable UI:** multiple visual themes (light, dark, and high-contrast skins) and per-user profile avatars.
+- **5 Visual Themes & Synced Profile Avatar:** compact skin switcher (`Sand`, `Obsidian`, `Emerald`, `Cyber Neon`, `Copper`) on login and inside the navigation drawer, with profile avatars synced across Web and Offline-First native Android.
 
 ---
 
